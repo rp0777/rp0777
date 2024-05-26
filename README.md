@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rp0777&label=Profile%20views&color=0e75b6&style=flat" alt="rp0777" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Rajat_P97" target="blank"><img src="https://img.shields.io/twitter/follow/_him_anshu_09?logo=twitter&style=for-the-badge" alt="Rajat_P97" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Rajat_P97" target="blank"><img src="https://img.shields.io/twitter/follow/Rajat_P97?logo=twitter&style=for-the-badge" alt="Rajat_P97" /></a> </p>
 
 - 🌱 I’m currently learning **next.js, typescript, socket.io**
 
