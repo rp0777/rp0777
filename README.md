@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/Rajat_P97" target="blank"><img src="https://img.shields.io/twitter/follow/Rajat_P97?logo=twitter&style=for-the-badge" alt="Rajat_P97" /></a> </p>
 
-- 🌱 I’m currently learning **next.js, typescript, socket.io**
+<!-- - 🌱 I’m currently learning **next.js, typescript, socket.io** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/rp0777/](https://github.com/rp0777/)
 
